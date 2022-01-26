@@ -1,2 +1,2 @@
-# fun
+# python fun
 random fun stuff
